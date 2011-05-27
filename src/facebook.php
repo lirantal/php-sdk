@@ -45,7 +45,7 @@ class Facebook extends BaseFacebook
    * a store for user ids and access tokens.
    */
   protected static $kSupportedKeys =
-    array('code', 'access_token', 'user_id');
+    array('code', 'access_token', 'user_id', 'fbcsrf');
 
   protected function setPersistentData($key, $value) {
     if (!in_array($key, self::$kSupportedKeys)) {
