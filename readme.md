@@ -71,3 +71,7 @@ We are including this in the open source repository to assure you of our
 commitment to quality, but also with the hopes that you will contribute back to
 help keep it stable. The easiest way to do so is to file bugs and include a
 test case.
+
+## Contributing
+
+Please consult [CONTRIBUTING](./CONTRIBUTING.md) for guidelines on contributing to this project.
